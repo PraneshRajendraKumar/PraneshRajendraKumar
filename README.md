@@ -11,7 +11,7 @@
   <img align="left" alt="Pranesh Rajendra Kumar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-a href="https://www.linkedin.com/in/praneshrajendrakumar/">
+<a href="https://www.linkedin.com/in/praneshrajendrakumar/">
   <img align="left" alt="Pranesh Rajendra Kumar | Linkedin" width="21px" src="https://user-images.githubusercontent.com/39052945/123924811-f1893900-d9a7-11eb-8b8a-fd0075036bc7.png" />
 </a>
 
