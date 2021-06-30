@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me at **pranesh.tech444@gmail.com**
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"></code>
+
+
 <!---
 **Languages and Tools:**  
 
@@ -16,6 +21,8 @@
 
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PraneshRajendraKumar&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
+
+
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PraneshRajendraKumar&show_icons=true&include_all_commits=true&theme=material-palenight" alt="P R K's github stats" />
