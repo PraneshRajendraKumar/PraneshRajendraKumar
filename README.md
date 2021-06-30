@@ -5,8 +5,6 @@
 
 ### 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)  
 
-         <! ---   <<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>  
-
 <br />
 
 <a href="https://twitter.com/Pranesh_P_R_K">
