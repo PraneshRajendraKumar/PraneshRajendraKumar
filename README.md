@@ -20,7 +20,6 @@
 #### - 💞️ I’m looking to collaborate on ML Projects
 #### - 📫 Reach me at **pranesh.tech444@gmail.com**
 <br />
-<br />
 
 ### **Languages and Tools:**  
 
