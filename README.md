@@ -4,6 +4,7 @@
   <img align="left" alt="Pranesh Rajendra Kumar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<br />
 
 #### - 👀 I’m interested in **Deep Learning**
 #### - 🌱 I’m currently learning **Natural Language Processing**
