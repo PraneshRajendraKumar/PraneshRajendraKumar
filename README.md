@@ -1,12 +1,13 @@
-- 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)     <<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>
-- 👀 I’m interested in **Deep Learning**
-- 🌱 I’m currently learning **Natural Language Processing**
-- 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me at **pranesh.tech444@gmail.com**
+### 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)     <<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>
+
+#### - 👀 I’m interested in **Deep Learning**
+#### - 🌱 I’m currently learning **Natural Language Processing**
+#### - 💞️ I’m looking to collaborate on Projects
+#### - 📫 Reach me at **pranesh.tech444@gmail.com**
 <br />
 <br />
 
-**Languages and Tools:**  
+### **Languages and Tools:**  
 
 <br />
 
