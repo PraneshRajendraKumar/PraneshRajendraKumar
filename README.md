@@ -1,11 +1,11 @@
 # <<<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>>
 
-<br />
+<br /> 
 
 
-### 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)    
+### 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)  
 
-<! ---   <<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>
+         <! ---   <<<[**PRK**](https://www.linkedin.com/in/praneshrajendrakumar/)>>>  
 
 <br />
 
@@ -46,7 +46,8 @@
 
 <br />
 
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PraneshRajendraKumar&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PraneshRajendraKumar&theme=flag-india&hide_border=true)](https://git.io/streak-stats)
+
 <br />
 
 <br />
