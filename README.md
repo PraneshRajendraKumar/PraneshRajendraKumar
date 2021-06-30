@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pranesh Rajendra Kumar [Pranesh Rajendra Kumar](https://www.kaggle.com/praneshrajendrakumar)  <**PRK**>
+- 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)  [<**PRK!!!**>](https://www.linkedin.com/in/praneshrajendrakumar/)
 - 👀 I’m interested in **Deep Learning**
 - 🌱 I’m currently learning **Natural Language Processing**
 - 💞️ I’m looking to collaborate on Projects
