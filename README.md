@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://www.facebook.com/pranesh.rajendrakumar/">
-  <img align="left" alt="Pranesh Rajendra Kumar | Facebook" width="51px" src="https://user-images.githubusercontent.com/39052945/123927469-812fe700-d9aa-11eb-8b12-993a19e0be82.png" />
+  <img align="left" alt="Pranesh Rajendra Kumar | Facebook" width="41px" src="https://user-images.githubusercontent.com/39052945/123927469-812fe700-d9aa-11eb-8b12-993a19e0be82.png" />
 </a>
 
 <br />
