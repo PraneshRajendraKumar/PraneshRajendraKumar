@@ -6,7 +6,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"></code>
+<code><img height="20" src="Python-Transparent.png"></code>
 
 
 <!---
