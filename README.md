@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Deep Learning**
 - 🌱 I’m currently learning **Natural Language Processing**
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me **pranesh.tech444@gmail.com**
+- 📫 Reach me at **pranesh.tech444@gmail.com**
 
 <!---
 **Languages and Tools:**  
