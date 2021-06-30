@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.kaggle.com/praneshrajendrakumar">
-  <img align="left" alt="Pranesh Rajendra Kumar | Kaggle" width="21px" src="https://user-images.githubusercontent.com/39052945/123926555-9bb59080-d9a9-11eb-9eef-511f29ebe421.png" />
+  <img align="left" alt="Pranesh Rajendra Kumar | Kaggle" width="41px" src="https://user-images.githubusercontent.com/39052945/123926555-9bb59080-d9a9-11eb-9eef-511f29ebe421.png" />
 </a>
 
 <a href="https://twitter.com/Pranesh_P_R_K">
