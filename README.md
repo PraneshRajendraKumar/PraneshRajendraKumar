@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning **Natural Language Processing**
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me at **pranesh.tech444@gmail.com**
+</a>
+</a>
 
 **Languages and Tools:**  
 
