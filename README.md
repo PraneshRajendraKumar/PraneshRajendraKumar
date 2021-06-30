@@ -66,7 +66,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PraneshRajendraKumar&show_icons=true&include_all_commits=true&theme=material-palenight" alt="P R K's github stats" />
 </a>
 
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PraneshRajendraKumar-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-https://github-profile-trophy.vercel.app/?username=PraneshRajendraKumar-ma&margin-w=15
+<br />
 
+
+.
