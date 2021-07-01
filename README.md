@@ -76,7 +76,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PraneshRajendraKumar&margin-w=55&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PraneshRajendraKumar&margin-w=55&theme=buddhism&include_all_commits)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
