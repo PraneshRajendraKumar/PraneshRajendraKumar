@@ -28,7 +28,7 @@
 #### - 👀 I’m interested in *Deep Learning*
 #### - 🌱 I’m currently pursuing *Masters in Data Science*
 #### - 💞️ I’m looking to collaborate on *ML Projects*
-#### - 📫 Reach me @ *pranesh.tech444@gmail.com*
+#### - 📫 Reach me @ pranesh.tech444@gmail.com
 
 ### **Languages and Tools:**  
 
