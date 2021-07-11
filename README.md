@@ -2,7 +2,6 @@
 
 <br /> 
 
-
 ### 👋 Hi, I’m [Pranesh Rajendra Kumar!](https://www.kaggle.com/praneshrajendrakumar)  
 
 <br />
